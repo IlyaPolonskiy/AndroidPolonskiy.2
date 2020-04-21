@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AndroidPolonskiy</string>
+    <string name="hello_button">Hello</string>
 </resources>
